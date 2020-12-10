@@ -1,0 +1,2 @@
+# Leetcode
+THIS IS MY PRACTICE RECORD~~
